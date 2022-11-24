@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cmath>
 
 #define sum(a,b,c) (a+b+c)
 #define avg(a, b, c) (sum(a,b,c)/3)
